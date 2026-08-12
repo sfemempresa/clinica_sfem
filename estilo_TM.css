@@ -1,0 +1,46 @@
+/* Paleta de colores ajustada al boceto */
+
+/* 1. Zona Superior (Azul / Violeta claro) */
+.top-section {
+    background-color: #9daafb;
+}
+
+/* 2. Zona de Logo y Barra */
+.header-section {
+    background-color: #c4cefe;
+}
+
+.logo-img {
+    max-height: 45px;
+}
+
+/* 3. Zona Categorías (Gris medio) */
+.categories-section {
+    background-color: #bebebe;
+}
+
+/* 4. Zona Tratamientos (Gris claro) */
+.treatments-section {
+    background-color: #d8d8d8;
+}
+
+/* 5. Pie de página (Gris muy claro) */
+.footer-section {
+    background-color: #e6e6e6;
+}
+
+/* Estilo general para los títulos de sección en blanco */
+.section-title {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Botones estilo boceto */
+.btn-light {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.btn-light:hover {
+    background-color: #e2e6ea;
+}
