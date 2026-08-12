@@ -4,7 +4,6 @@ body {
             background-color: #ffffff;
         }
 
-        /* Estilos del Menú */
         .navbar-brand img {
             max-height: 100px;
             width: auto;
@@ -24,7 +23,6 @@ body {
             color: #0072bc !important;
         }
 
-        /* Desplegable al pasar el mouse (hover) */
         @media (min-width: 992px) {
             .navbar .nav-item.dropdown:hover .dropdown-menu {
                 display: block;
@@ -43,14 +41,12 @@ body {
             color: #4b6b94;
         }
 
-        /* Banner de la imagen oficial */
         .banner-container img {
             width: 100%;
             height: auto;
             display: block;
         }
 
-        /* Tarjetas de Novedades */
         .news-card {
             border: none;
             background: transparent;
@@ -91,7 +87,6 @@ body {
             color: #222;
         }
 
-        /* Estilos para la barra superior */
     .top-bar {
     background-color: #f2f4f6;
     font-size: 0.85rem;
